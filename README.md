@@ -57,11 +57,11 @@ The notes in this repository follow the official Prime 2.0 syllabus:
 
 | Day / Module | Topic Hub | Notes Included |
 | :--- | :--- | :--- |
-| **Day 03** | [[Day 03 - Python Fundamentals\|Day 03 Hub]] | • `01. Conditionals and Pattern Matching`<br>• `02. Loops and Iteration`<br>• `03. Functions and Scope` |
-| **Day 04** | [[Day 04 - Python Data Structures\|Day 04 Hub]] | • `01. Strings and String Formatting`<br>• `02. Lists and Tuples`<br>• `03. Dictionaries and Sets` |
-| **Day 05** | [[Day 05 - Object-Oriented Programming\|Day 05 Hub]] | • `01. Classes, Objects and Constructors`<br>• `02. Attributes and Types of Methods`<br>• `03. The Four Pillars of OOP` |
-| **Day 06** | [[Day 06 - File IO, Exceptions and Comprehensions\|Day 06 Hub]] | • `01. File Handling and JSON`<br>• `02. Exception Handling`<br>• `03. List Comprehensions` |
-| **Day 09** | [[Day 09 - NumPy\|Day 09 Hub]] | • `01. NumPy Arrays and Core Properties`<br>• `02. Array Operations, Slicing and Views`<br>• `03. Vectorization, Broadcasting and Statistics` |
+| **Day 03** | Day 03 Hub (Python Fundamentals) | • `01. Conditionals and Pattern Matching`<br>• `02. Loops and Iteration`<br>• `03. Functions and Scope` |
+| **Day 04** | Day 04 Hub (Python Data Structures) | • `01. Strings and String Formatting`<br>• `02. Lists and Tuples`<br>• `03. Dictionaries and Sets` |
+| **Day 05** | Day 05 Hub (Object-Oriented Programming) | • `01. Classes, Objects and Constructors`<br>• `02. Attributes and Types of Methods`<br>• `03. The Four Pillars of OOP` |
+| **Day 06** | Day 06 Hub (File IO & Exceptions) | • `01. File Handling and JSON`<br>• `02. Exception Handling`<br>• `03. List Comprehensions` |
+| **Day 09** | Day 09 Hub (NumPy) | • `01. NumPy Arrays and Core Properties`<br>• `02. Array Operations, Slicing and Views`<br>• `03. Vectorization, Broadcasting and Statistics` |
 
 ---
 
@@ -80,8 +80,8 @@ This vault is organized with a **3-tier hierarchical cluster structure** to prev
 ```
 
 - Each topic note links **only** to its parent Day Hub.
-- Each Day Hub links **only** to `[[Prime 2.0]]`.
-- `[[Prime 2.0]]` links to `[[AIML]]`.
+- Each Day Hub links **only** to `Prime 2.0`.
+- `Prime 2.0` links to `AIML`.
 
 ---
 
